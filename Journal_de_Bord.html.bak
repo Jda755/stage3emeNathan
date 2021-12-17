@@ -58,9 +58,9 @@
 		</tr>
 		<tr class="LigneJournalDeBord">
 			<td class="ligne ligne2" > Jeudi : </td>
-			<td class="ligne Ligne3" >  </td>
-			<td class="ligne Ligne4" >  </td>
-			<td class="ligne Ligne5" >  </td>
+			<td class="ligne Ligne3" > J'ai fais un menu qui reli toutes mes page web avec un petit easter egg. </td>
+			<td class="ligne Ligne4" > J"ia observer 3 secondes mon frère. </td>
+			<td class="ligne Ligne5" > Super </td>
 		</tr>
 		<tr class="LigneJournalDeBord">
 			<td class="ligne ligne2" > Vendredi : </td>
@@ -72,7 +72,7 @@
 	<div class="Bouton">
 		<button class="style"
 				type="button"
-				onclick="window.location.href = 'file:///C:/Users/STAGE3EME/Documents/Stage%203eme/Menu.html';">
+				onclick="window.location.href = 'index.html';">
 			Retour au Menu
 		</button>
 	</div>
