@@ -1,0 +1,7 @@
+
+	<script type="text/javascript">
+    // Ici on definit une fonction JavaScript
+    function direBonjour() {
+      alert("Bonjour cher lecteur !!! ")
+    }
+    </script>

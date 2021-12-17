@@ -1,0 +1,130 @@
+.TableauEnTete {
+	border: 1px solid;
+	font-size: 15px;
+	border-collapse: collapse;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 5%;
+	margin-bottom: 20px;
+}
+
+
+.Classe {
+	text-align: center;
+}
+.Nom {
+	text-align: left
+}
+.NomPrenom {
+	width: 100%;
+}
+.Entreprise {
+	text-align: center;
+	width: 50%
+}
+.NewNom {
+	width: 25%;
+}
+.NewClasse {
+	width: 25%;
+	text-align: center;
+}
+.Entreprise {
+	border-left: 1px solid;
+	height: 25px;
+}
+.Titre {
+	border: 1px solid;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: center;
+}
+.JournalDeBordTitre {
+	font-family: arial black;
+	font-size: 20px;
+}
+.JournalDeBord {
+	border: 2px solid;
+	border-collapse: collapse;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 20px;
+}
+.ligne {
+	border: 1px solid;
+}
+.ligne2 {
+	width: 15%;	
+}
+.Ligne3 {
+	width: 30%;
+}
+.Ligne4 {
+	width: 30%;
+}
+.Ligne5 {
+	width: 25%;
+}
+.th {
+	border-collapse: collapse;
+}
+.LigneJournalDeBord {
+	height: 60px;
+	vertical-align: top;
+}
+.Ligne7 {
+	vertical-align: middle;
+}
+.style {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+.style:hover {
+    background-color: rgba(255, 0, 0, 1);
+}
+
+.style:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+.Bouton {
+	width: 100%;
+	display:flex;
+	justify-content:center;
+	margin-top: 20px;
+}
+.egg {
+	width: 1px;
+	height: 1px;
+	color: #ff1100;
+	border: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	width: 100%;
+	display:flex;
+	justify-content:center;
+	margin-top: 5px;
+}
+html {
+	font-family: cursive;
+}

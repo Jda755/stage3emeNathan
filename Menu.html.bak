@@ -1,0 +1,123 @@
+<html>
+	
+	<link rel="stylesheet" href="Menu.css">
+	
+<div class="Menu">
+
+	<div class="DivTitreMenu">
+		<h1 class="TitreMenu"> Bienvenue dans le Menu <h1>
+	</div>
+
+	<div class="DivPresentationMenu">
+		<p class="PresentationMenu"> Le menu est connecté a toutes les autres pages. Vous pouvez naviguer tranquillement de page en page depuis le menu. </p>
+	</div>
+
+<body>
+	<table class="PourCentrer">
+		<tr>
+			<td>
+			<div class="DivBouton1" >
+				<button class="style"
+						type="button"
+						onclick="window.location.href = 'file:///C:/Users/STAGE3EME/Documents/Stage%203eme/Journal_de_Bord.html';">
+					Journal de Bord
+				</button>
+			</div>
+			
+			<div class="DivBouton2">
+				<button class="style"
+						type="button"
+						onclick="window.location.href = 'file:///C:/Users/STAGE3EME/Documents/Stage%203eme/Cv_de_Nathan.html';">
+					Cv de Nathan
+				</button>
+			</div>	
+			
+			<div class="DivBouton3">
+				<button class="style"
+						type="button">
+					Comming Soon
+				</button>
+			</div>
+			
+				<div class="DivBouton4">
+				<button class="style"
+						type="button">
+					Comming Soon
+				</button>
+			</div>
+			
+				<div class="DivBouton5">
+				<button class="style"
+						type="button">
+					Comming Soon
+				</button>
+			</div>
+			
+				<div class="DivBouton6">
+				<button class="style"
+						type="button">
+					Comming Soon
+				</button>
+			</div>
+			
+				<div class="DivBouton7">
+				<button class="style"
+						type="button">
+					Comming Soon
+				</button>
+			</div>
+			
+				<div class="DivBouton8">
+				<button class="style"
+						type="button">
+					Comming Soon
+				</button>
+			</div>
+			
+				<div class="DivBouton9">
+				<button class="style"
+						type="button"
+						onclick="window.location.href = 'file:///C:/Users/STAGE3EME/Documents/Stage%203eme/Surprise.html';">
+					Comming Soon
+				</button>
+			</div>
+			
+				<div class="DivBouton10">
+				<button class="style"
+						type="button">
+					Comming Soon
+				</button>
+			</div>
+			
+				<div class="DivBouton11">
+				<button class="style"
+						type="button">
+					Comming Soon
+				</button>
+			</div>
+			
+			<div class="DivBouton12">
+			
+				<button class="Rien" 
+						type="button">
+				</button>
+					
+				<button class="style"
+						type="button">
+					Comming Soon
+				</button>
+					
+				<button class="BoutonCacher"
+						type="button">
+					...
+				</button>
+			</div>
+			</td>
+		</tr>
+	</table>
+	
+</body>
+
+</div>
+
+</html>
