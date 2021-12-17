@@ -1,0 +1,27 @@
+.1erLigne {
+	margin: 0px;
+}
+.2eLigne {
+	margin: 0px;
+}
+.3eLigne {
+	margin: 0px;
+}
+.4eLigne {
+	margin: 0px;
+}
+.5eLigne {
+	margin: 0px;
+}
+body {
+	background-color: #003265;
+}
+.style {
+	font-size: 25px;
+	color: #062F58;
+	background-color: #003265;
+	border: 0px;
+}
+html {
+	font-family: cursive;
+}

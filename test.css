@@ -1,0 +1,77 @@
+.bluetext {
+color:blue;	
+}
+.title{
+	color:#5beb7d
+}
+table,
+tr {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #2315eb;
+    color: #eb7c15;
+}
+td {
+    width: 80px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(100, 100, 100);
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-size: .7rem;
+}
+
+td,
+th {
+    border: 1px solid rgb(100, 100, 100);
+	padding: 100px 10px;
+}
+
+td {
+    text-align: center;
+}
+.2 {
+	background-color: white;
+}
+.red {
+	background-color: red;
+}
+
+.ReToUr {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+.ReToUr:hover {
+    background-color: rgba(255, 0, 0, 1);
+}
+
+.ReToUr:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+.ReToUr {
+	display: flex;
+	height: 500px;
+	width: 500px;
+	font-size: 5px
+}

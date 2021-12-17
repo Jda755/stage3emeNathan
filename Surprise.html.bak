@@ -1,0 +1,156 @@
+<html>
+	 
+	<link rel="stylesheet" href="Surprise.css" />
+	
+	<body>
+	
+		<div class=1erLigne>
+			<img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+		</div>
+		
+		<div class=2eLigne>
+		
+		<img class="NyanCat"
+			 src="nyan-cat-cat.gif"/>
+			 
+			 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+			 
+		</div>
+		
+		<div class=3eLigne>
+		
+		<img class="NyanCat"
+			 src="nyan-cat-cat.gif"/>
+			 
+			 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+			 
+		</div>
+		
+		<div class=4eLigne>
+		
+		<img class="NyanCat"
+			 src="nyan-cat-cat.gif"/>
+			 
+			 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+			 
+		</div>
+		
+		<div class=5eLigne>
+		
+		<img class="NyanCat"
+			 src="nyan-cat-cat.gif"/>
+			 
+			 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+				 
+				 <img class="NyanCat"
+				 src="nyan-cat-cat.gif"/>
+			 
+		</div>
+		
+		<div>
+			<button class="style"
+					type="button"
+					onclick="window.location.href = 'file:///C:/Users/STAGE3EME/Documents/Stage%203eme/Menu.html';">
+				.........
+			</button>
+		</div>
+		
+	</body>
+	
+</html>
