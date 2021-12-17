@@ -59,7 +59,7 @@ html {
 .BoutonCacher {
 	background-color: #ffffff;
 	border: 0px;
-	color: #f7f5f5;
+	color: #e6dfdf;
 }
 
 .PourCentrer {

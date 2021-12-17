@@ -70,8 +70,19 @@ td {
 }
 
 .ReToUr {
-	display: flex;
 	height: 500px;
 	width: 500px;
-	font-size: 5px
+	text-align: center;
+	font-size: 9px;
+	vertical-align: middle;
+}
+.alligner {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.invisible {
+	background-color: #ffffff;
+	border: 0px
 }

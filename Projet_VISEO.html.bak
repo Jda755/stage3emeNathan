@@ -16,35 +16,40 @@
 	<li> Trouver ! </li>
 </ul>
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="4">J'aime le saucisson et le fromage</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr class="2">
-            <td>Saucisson</td>
-            <td>Fromage</td>
-			<td></td>
-			<td></td>
-			<td></td>
-        </tr>
-        <tr class="red">
-            <td>Patate</td>
-            <td>Pates</td>
-			<td></td>
-			<td></td>
-        </tr>
-    </tbody>
-</table>
+<div class="alligner">
+	<table>
+		<thead>
+			<tr>
+				<th colspan="4">J'aime le saucisson et le fromage</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="2">
+				<td>Saucisson</td>
+				<td>Fromage</td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr class="red">
+				<td>Patate</td>
+				<td>Pates</td>
+				<td></td>
+				<td></td>
+			</tr>
+		</tbody>
+	</table>
 
-<div>
 	<button class="ReToUr"
 			type="button"
-			onclick="window.location.href = 'file:///C:/Users/STAGE3EME/Documents/Stage%203eme/Menu.html';"
+			onclick="window.location.href = 'index.html';">
 		Retour
 	</button>
+	
+	<button class="invisible"
+			type="button">
+	</button>
+	
 </div>
 
 
