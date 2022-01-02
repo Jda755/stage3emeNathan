@@ -1,0 +1,23 @@
+.Avion { 
+color:#afff; 
+}
+.Tramway {
+	color:#037dff;
+}
+
+table,
+th {
+	text-align: center;
+}
+td {
+    border: 1px solid #333;
+	padding:  10px 10px
+}
+td {
+	 text-align: center;
+}
+table {
+    border-collapse: collapse;
+}
+
+

@@ -14,7 +14,7 @@
 	</div>
 </div>
 <div class="BlockPresentation">		
-	<p class="Presentation" > Je m'appel Nathan, j'ai 14 ans et je suis en 3e. Je suis né a Monpellier et vis dans sa banlieue. Je fais un stage de 3e a VISEO SAS a Grenoble. </p>
+	<p class="Presentation" > Je m'appelle Nathan, j'ai 14 ans et je suis en 3e. Je suis né a Monpellier et vis dans sa banlieue. Je fais un stage de 3e a VISEO a Grenoble. </p>
 		<img class="Pingouin"
 			src="Pingouin.jpg" >
 </div>	
@@ -30,7 +30,7 @@
 <div class="Bouton">
 		<button class="style"
 				type="button"
-				onclick="window.location.href = 'file:///C:/Users/STAGE3EME/Documents/Stage%203eme/Menu.html';">
+				onclick="window.location.href = 'index.html';">
 			Retour au Menu
 		</button>
 	</div>
