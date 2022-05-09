@@ -90,5 +90,8 @@ body {
 	height: 100%;
 	margin: 0
 }
+.Bouton {
+	margin: 15px;
+}
 
 
