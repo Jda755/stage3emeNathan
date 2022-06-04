@@ -38,7 +38,6 @@
 .Menu {
 	display: flex;
 	flex-direction: column;
-	justify-content: space-between;
 	height: 100%;
 	margin: 0
 }
@@ -51,11 +50,6 @@ html {
 	font-family: cursive;
 }
 
-.DivBouton12 {
-	display: flex;
-	justify-content: space-between;
-}
-
 .BoutonCacher {
 	background-color: #ffffff;
 	border: 0px;
@@ -63,12 +57,14 @@ html {
 }
 
 .PourCentrer {
-	border: 0px;
+	border: 15px;
 	text-align: center;
 }
 .Rien {
 	border: 0px;
 	background-color: #ffffff;
-	width: 24px;
+	width: 25px;
 }
-
+.DivBouton1 {
+	border: 60px;
+}
