@@ -1,8 +1,8 @@
-.Nom {
-	font-size:35px;
+.NomEtInformation {
 	display: flex;
 	margin-left: 15px;
 	flex-direction: column;
+	margin-top: 15px;
 }
 .Titre {
 	font-size: 50px;
@@ -16,10 +16,27 @@
 .nth {
 	margin-bottom: 2px;
 	margin-top: 5px;
+	font-size: 25px;
 }
-.bly {
-	margin-bottom: 5px;
-	margin-top: 3px;
+.adresse {
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+.adresse2 {
+	font-size: 20px;
+	margin: 0px;
+}
+.numtel {
+	font-size: 20px;
+	margin: 0px;
+}
+.age {
+	font-size: 20px;
+	margin: 0px;
+}
+.adressemail {
+	font-size: 20px;
+	margin: 0px;
 }
 .BlockPresentation {
 	display: flex;
@@ -39,6 +56,7 @@
 	margin-top: 5px;
 	margin-bottom: 15px;
 	margin-left: 15px;
+	text-decoration: underline;
 }
 .ListeCompetences {
 	font-size: 25px;
@@ -46,7 +64,7 @@
 }
 html {
 	font-family: cursive;
-	background-color: #76f1f5;
+	background-color: #fff;
 }
 .style {
     border: 0;
@@ -88,5 +106,21 @@ body {
 .Bouton {
 	margin: 15px;
 }
-
-
+.Competences {
+	margin-top: 25px;
+	margin-left: 25px;
+}
+.ListeCompetences {
+	margin-left: 35px;
+}
+.BlocProjet {
+	border: 3px solid;
+	margin-right: 15px;
+	margin-top: 15px;
+}
+.ProjetNom {
+	font-size: 25px;
+}
+.FuturMetier {
+	font-size: 15px;
+}

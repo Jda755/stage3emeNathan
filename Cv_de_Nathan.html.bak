@@ -3,31 +3,25 @@
 <body>	
 <div>
 <div class="header">
-	<div class="Nom">
-		<p class="nth"> Nathan </p>
-		<p class="bly"> Blaye </p>
+	<div class="NomEtInformation">
+		<p class="nth"> Nathan BLAYE </p>
+		
+		<p class="adresse"> 408 Rue de Coulondre </p>
+		<p class="adresse2"> 34 980 Saint Gely du Fesc </p>
+		<p class="numtel"> 07 67 52 93 15 </p>
+		<p class="adressemail"> nathan.blaye@gmail.com </p>
 	</div>
-
-	<h1 class="Titre"> Mon CV </h1>
-	
-	<div>
-	</div>
+	<h1 class="Titre"> CV </h1>
 </div>
-<div class="BlockPresentation">		
-	<p class="Presentation" > Je m'appelle Nathan, j'ai 14 ans et je suis en 3e. Je suis né a Monpellier et vis dans sa banlieue. Je fais un stage de 3e a VISEO a Grenoble. </p>
-		<img class="Pingouin"
-			src="Pingouin.jpg" >
-</div>	
 <div class="Competences">
-	<p class="TitreCompetences"> Compétences : </p>
+	<p class="TitreCompetences"> Compétences Acquises </p>
 	<ul class="ListeCompetences">
-		<li class="Competence1"> Comprend vite </li>
-		<li class="Competence2"> Est meilleur en html vanilla que mon frère. </li>
-		<li class="Competence3"> Je sais utiliser un éditeur de programmation </li>
-		<li class="Competence4"> Language de programation html et css  : niveau débutant. </li>
-		<li class="Competence5"> Niveau d'anglais : Minecraft </li> 
+		<li class="Competence1"> Capacité de recherche. </li>
+		<li class="Competence2"> Capacité de réfléxion. </li>
+		<li class="Competence3"> Développer en html. </li>
+		<li class="Competence4"> Développer en css. </li>
+		<li class="Competence5"> Développer en JavaScript </li> 
 	</ul>
-</div>
 </div>
 </div>
 <div class="Bouton">

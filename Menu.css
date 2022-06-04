@@ -57,7 +57,7 @@ html {
 }
 
 .PourCentrer {
-	border: 15px;
+	border: 0px;
 	text-align: center;
 }
 .Rien {
@@ -66,5 +66,6 @@ html {
 	width: 25px;
 }
 .DivBouton1 {
-	border: 60px;
+	padding-bottom: 15px;
+	padding-top: 50px;
 }
