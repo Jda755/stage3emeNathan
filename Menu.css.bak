@@ -50,11 +50,6 @@ html {
 	font-family: cursive;
 }
 
-.DivBouton12 {
-	display: flex;
-	justify-content: space-between;
-}
-
 .BoutonCacher {
 	background-color: #ffffff;
 	border: 0px;
@@ -62,7 +57,7 @@ html {
 }
 
 .PourCentrer {
-	border: 0px;
+	border: 15px;
 	text-align: center;
 }
 .Rien {
@@ -70,4 +65,6 @@ html {
 	background-color: #ffffff;
 	width: 25px;
 }
-
+.DivBouton1 {
+	border: 60px;
+}

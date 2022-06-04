@@ -38,7 +38,6 @@
 .Menu {
 	display: flex;
 	flex-direction: column;
-	justify-content: space-between;
 	height: 100%;
 	margin: 0
 }
@@ -63,7 +62,7 @@ html {
 }
 
 .PourCentrer {
-	border: 0px;
+	border: 15px;
 	text-align: center;
 }
 .Rien {
