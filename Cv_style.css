@@ -17,6 +17,7 @@
 	margin-bottom: 2px;
 	margin-top: 5px;
 	font-size: 25px;
+	font-weight: bold;
 }
 .adresse {
 	font-size: 20px;
@@ -104,7 +105,9 @@ body {
 	margin: 0
 }
 .Bouton {
-	margin: 15px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
 }
 .Competences {
 	margin-top: 25px;
@@ -115,7 +118,7 @@ body {
 }
 .BlocProjet {
 	border: 3px solid;
-	margin-right: 15px;
+	margin-right: 100px;
 	margin-top: 15px;
 }
 .ProjetNom {
@@ -123,6 +126,44 @@ body {
 	margin: 5px;
 }
 .FuturMetier {
-	font-size: 15px;
+	font-size: 20px;
 	margin: 5px;
+	margin-top: 20px;
+}
+.TitreExpPro { 
+	font-size: 30px;
+	font-weight: bolder;
+	margin-bottom: 15px;
+	margin-top: 25px;
+	margin-left: 25px;
+	text-decoration: underline;
+}
+.ListeExpPro {
+	margin-left: 35px;
+	font-size: 25px;
+	margin-bottom: 5px;
+}
+.ObjectifExpPro {
+	margin-left: 35px;
+	font-size: 25px;
+	margin-top: 5px;
+}
+.ExpPro {
+	margin-left: 25px;
+}
+.TitreFormation { 
+	font-size: 30px;
+	font-weight: bolder;
+	margin-bottom: 15px;
+	margin-top: 25px;
+	margin-left: 25px;
+	text-decoration: underline;
+}
+.ListeFormation {
+	margin-left: 35px;
+	font-size: 25px;
+	margin-bottom: 5px;
+}
+.Formation {
+	margin-left: 25px;
 }

@@ -8,10 +8,15 @@
 		
 		<p class="adresse"> 408 Rue de Coulondre </p>
 		<p class="adresse2"> 34 980 Saint Gely du Fesc </p>
-		<p class="numtel"> 07 67 52 93 15 </p>
-		<p class="adressemail"> nathan.blaye@gmail.com </p>
+		<p class="numtel"> Tel : 07 67 52 93 15 </p>
+		<p class="adressemail"> Mail : nathan.blaye@gmail.com </p>
+		<p class="age"> 14 ans 3°2 </p>
 	</div>
 	<h1 class="Titre"> CV </h1>
+	<div class="BlocProjet" >
+		<p class="ProjetNom" > Projet Parcours Avenir </p>
+		<p class="FuturMetier" > Devenir Ingénieur, Dévellopeur, Concepteur en Informatique. </p>
+	</div>
 </div>
 <div class="Competences">
 	<p class="TitreCompetences"> Compétences Acquises </p>
@@ -23,6 +28,25 @@
 		<li class="Competence5"> Développer en JavaScript </li> 
 	</ul>
 </div>
+<div class="ExpPro" >
+	<p class="TitreExpPro" > Expérience Porfessionnelle </p>
+		<ul class="ListeExpPro" >
+			<li class="ExpPro1" >  Décembre 2021 : Stage d’observation : VISEO GRENOBLE – 38 </li>
+		</ul>
+	<p class="ObjectifExpPro" > Mission : Créer un site Web fonctionnel (3 pages) </p> 
+</div>
+<div class="Formation"> Formation Nécessaire
+
+
+
+
+
+
+
+
+
+
+
 </div>
 <div class="Bouton">
 		<button class="style"
