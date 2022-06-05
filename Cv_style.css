@@ -1,13 +1,15 @@
 .NomEtInformation {
 	display: flex;
-	margin-left: 15px;
+	margin-left: 0px;
 	flex-direction: column;
 	margin-top: 15px;
+	
 }
 .Titre {
 	font-size: 50px;
 	text-align: center;
 	margin-bottom: 5px;
+	color: #009BD2;
 }
 .header {
 	display: flex;
@@ -58,6 +60,7 @@
 	margin-bottom: 15px;
 	margin-left: 15px;
 	text-decoration: underline;
+	color: #009BD2;
 }
 .ListeCompetences {
 	font-size: 25px;
@@ -105,9 +108,7 @@ body {
 	margin: 0
 }
 .Bouton {
-	margin-top: 5px;
-	margin-left: 5px;
-	margin-bottom: 5px;
+	margin: 10px;
 }
 .Competences {
 	margin-top: 25px;
@@ -120,15 +121,19 @@ body {
 	border: 3px solid;
 	margin-right: 100px;
 	margin-top: 15px;
+	background-color: #009BD2;
 }
 .ProjetNom {
-	font-size: 25px;
+	font-size: 35px;
 	margin: 5px;
+	text-align: center;
+	font-weight: bolder;
 }
 .FuturMetier {
-	font-size: 20px;
+	font-size: 30px;
 	margin: 5px;
-	margin-top: 20px;
+	margin-top: 5px;
+	text-align: center;
 }
 .TitreExpPro { 
 	font-size: 30px;
@@ -137,6 +142,7 @@ body {
 	margin-top: 25px;
 	margin-left: 25px;
 	text-decoration: underline;
+	color: #009BD2;
 }
 .ListeExpPro {
 	margin-left: 35px;
@@ -158,6 +164,7 @@ body {
 	margin-top: 25px;
 	margin-left: 25px;
 	text-decoration: underline;
+	color: #009BD2;
 }
 .ListeFormation {
 	margin-left: 35px;
@@ -166,4 +173,10 @@ body {
 }
 .Formation {
 	margin-left: 25px;
+}
+.imgPhoto {
+	margin: 15px;
+	width: 125px;
+	height: 180px;
+	margin-right: 0px;
 }
